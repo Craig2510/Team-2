@@ -1,3 +1,7 @@
+body {
+    font-family: proxima-nova, sans-serif;
+}
+
 .header {
     background-color: #CF0058;
     height: 157px;
