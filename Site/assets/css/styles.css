@@ -21,7 +21,44 @@ body {
     padding: .5rem 1rem;
     color: #CF0058;
 }
-
+h1{
+    color: #CF0058;
+}
+h2{
+    line-height: 80%;
+}
+h1 h1 p{
+    font-family: 'Century Gothic';
+}
+section p{
+    text-align: left;
+}
+#clip{
+    bottom: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+}
+section{
+    display: grid;
+   
+    text-align: center;
+}
+.left{
+    height: 100%;
+    width: 50%;
+    float: left;
+    padding: 2%;
+}
+.right{
+    height: 100%;
+    width: 50%;
+    float: right;
+    padding: 2%;
+}
+@media screen {
+    
+}
 
 
 
